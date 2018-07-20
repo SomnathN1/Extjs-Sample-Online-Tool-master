@@ -7,7 +7,7 @@
 
 - Extract the contents to a folder
 
-- EXT.JS library 6.5.1 is uploaded on https://github.com/kpauldeveloper/EXT.JS-6.5.1
+- EXT.JS library 6.5.1 is needed
 
 - Download EXT.JS library from the above url and unzip
 
