@@ -7,7 +7,7 @@
 
 - Extract the contents to a folder
 
-- EXT.JS library 6.5.1 is needed
+- EXT.JS library 6.5.1 is needed - https://github.com/SomnathN1/EXT.JS-6.5.1-library-files
 
 - Download EXT.JS library from the above url and unzip
 
